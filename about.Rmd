@@ -7,4 +7,23 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## About Me
+Hello I am **Mann Talati** I got to Metea Valley High School and I have a lot of interests such as coding, playing volleyball, gaming, hanging out with friends, and going to the gym.
 
+## About the Project
+*The Title of My Project*
+
+This project is about blank blank
+
+### Goals
+*Create a great project
+  +Implement music within the project
+
+*Make an impact with my project
+
+*Start my R career in data science
+
+“This is data science"  
+~ Preceptor
+
+["Kane's Free Data Science Bootcamp"](https://bootcamp.davidkane.info)
