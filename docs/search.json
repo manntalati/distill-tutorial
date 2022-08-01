@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\nAbout Me\r\nHello I am Mann Talati I got to Metea Valley High\r\nSchool and I have a lot of interests such as coding, playing volleyball,\r\ngaming, hanging out with friends, and going to the gym.\r\nAbout the Project\r\nThe Title of My Project\r\nThis project is about blank blank\r\nGoals\r\n*Create a great project +Implement music within the project\r\n*Make an impact with my project\r\n*Start my R career in data science\r\n“This is data science”\r\n\r\nPreceptor\r\n\r\n“Kane’s Free Data Science\r\nBootcamp”\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-31T21:33:02-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Title of My Final Project",
+      "description": "This is where I will describe my final project.\n",
+      "author": [],
+      "contents": "\r\ncar_plot <- read_rds(car-plot.rds) car_plot\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-31T21:42:58-05:00"
+    }
+  ],
+  "collections": []
+}
