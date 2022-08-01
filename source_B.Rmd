@@ -1,0 +1,10 @@
+---
+title: "Source B"
+description: |
+  Detailed notes for Source B
+author: "Mann Talati"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
